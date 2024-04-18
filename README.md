@@ -7,12 +7,19 @@ Dataset Content
 The dataset Audiobooks_data.csv contains information about customers' interactions with an audiobook service. Each row represents a customer transaction and includes the following features:
 
 Customer ID: Unique identifier for each customer.
+
 Book Length (mins): Total duration of audiobooks purchased by the customer.
+
 Book Price ($): Price paid for the audiobooks.
+
 Avg. Minutes Listened: Average duration of audiobooks listened to by the customer.
+
 Completion: Percentage of audiobooks completed by the customer.
+
 Support Requests: Number of customer support requests made by the customer.
+
 Last Visit Mins: Minutes since the customer's last visit to the service.
+
 Purchase Class: Target variable indicating whether the customer made another purchase (0: No, 1: Yes).
 
 Data Preprocessing
