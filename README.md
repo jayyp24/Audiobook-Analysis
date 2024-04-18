@@ -1,4 +1,4 @@
-#Audiobook Customer Classification
+# Audiobook Customer Classification
 
 Overview
 This project aims to predict whether customers will buy audiobooks again based on various features such as their purchasing behavior, amount spent, and engagement metrics. The classification model is trained using a dataset obtained from audiobook customer transactions.
